@@ -1,0 +1,36 @@
+# ---> OrCAD
+# .gitignore for Cadence OrCAD projects
+# Website: https://www.orcad.com/
+
+### OrCAD ###
+## Schematic
+# schematic design lock file
+*.DSNlck
+# design backup archive
+*.DBK
+
+## PCB
+# pcb design lock file
+*.brd.lck
+# generated autorouter metadata
+*.did
+# local backup file
+AUTOSAVE.brd
+*.SAV
+last_import_time.txt
+# generated journal files
+*.jrl
+# generated error log file
+*.dmp
+
+## General
+*.log
+# generated metadata file
+*_convert.txt
+# project lock file
+*.OLBlck
+# ultralibrarian generated documentation
+ImportGuide.html
+# generated orcad file, including which file was last opened
+master.tag
+

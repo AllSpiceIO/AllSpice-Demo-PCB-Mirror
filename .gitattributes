@@ -1,0 +1,5 @@
+*.[oO][uU][tT][jJ][oO][bB] binary linguist-detectable
+*.[pP][cC][bB][dD][oO][cC] diff=allspice linguist-detectable
+*.[pP][rR][jJ][pP][cC][bB] binary linguist-generated
+*.[sS][cC][hH][dD][oO][cC] diff=allspice linguist-detectable
+*.cmp diff=allspice linguist-detectable

@@ -1,0 +1,61 @@
+name: New component request
+about: Submit to add/update a component/symbol/footprint to the library
+title: "[Component]: "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Submit to add/update a component/symbol/footprint to the library      
+  - type: dropdown
+    id: component-type
+    attributes:
+      label: Component type
+      multiple: false
+      options:
+        - Passive
+        - Power supply
+        - Microcontrollers
+        - Analog
+        - Digital
+        - Other
+  - type: input
+    id: where-used
+    attributes:
+      label: Where used
+      description: List what assemblies / pcbs will use this component
+      placeholder: ASMXXXX
+      value: "ASMXXXX"
+  - type: input
+    id: qty-estimate
+    attributes:
+      label: Estimated annual quantity
+      description: Estimated annual quantity
+      placeholder: Ten
+      value: "10,000"
+  - type: textarea
+    id: part-numbers
+    attributes:
+      label: Part numbers
+      description: List mfg and internal part numbers
+      placeholder: List mfg and internal part numbers, add at least one distributor part number
+      value: "add part numbers"
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: Give an explanation for why we need this new part, as well as any details or notes
+      placeholder: why we need this part
+      value: "why we need this part"
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Due diligence done
+      description: By submitting this issue, you agree you searched our component library for existing components before requesting a new component
+      options:
+        - label: I checked the library for existing parts
+          required: true
