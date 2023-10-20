@@ -1,6 +1,48 @@
 # Epaper display search
 
 
+## Waveshare
+
+### 2.13" 4-color rectangular
+#### Specs
+- Refresh time 25s
+- Refresh Power < 10mW
+- Standby Current < 0.01uA
+- Color Red/Yellow/Black/White
+- Power 3.3V
+- Interface SPI (3/4 wire)
+- Resolution 250x122 px
+
+#### Link
+[2.13" 4-color display](https://www.waveshare.com/product/displays/e-paper/epaper-3/2.13inch-e-paper-g.htm)
+[Dev board](https://www.waveshare.com/product/displays/e-paper/epaper-3/2.13inch-e-paper-hat.htm)
+#### Price
+- 1 $7.99
+- 10 $7.59
+- 50 $7.39
+- 100 $7.31
+
+### 1.64" 4-color display squarish
+
+#### Specs
+- Refresh time 12s
+- Refresh Power < 57mW
+- Standby Current < 0.01uA
+- Color Red/Yellow/Black/White
+- Power 3.3V
+- Interface SPI (3/4 wire)
+- Resolution 250x122 px 
+
+#### Link
+[1.64" 4-color display](https://www.waveshare.com/1.64inch-e-Paper-G.htm)
+#### Price
+
+- 1 $9.99
+- 10 $9.59
+- 50 $9.39
+- 100 $9.31
+
+
 ## BuyDisplay
 
 ### 1.54" 3-Color Epaper display
