@@ -13,6 +13,20 @@
 - Interface SPI (3/4 wire)
 - Resolution 250x122 px
 
+#### Power budget
+10 mW refresh for 25s
+P=IV
+10 mW = I * 3.3V
+10 mW / 3.3v = I
+I = 0.00303030303 = 3 mA
+3 mA @ 25 s = 75 mAs
+hour/sec = 1/3600 h/s
+75 mAs * 1/3600 h/s = 75/3600 mAh = 0.02083 mAh
+48 refreshes per mAh
+500 mAh = max 5000 refreshes
+
+
+
 #### Link
 [2.13" 4-color display](https://www.waveshare.com/product/displays/e-paper/epaper-3/2.13inch-e-paper-g.htm)
 [Dev board](https://www.waveshare.com/product/displays/e-paper/epaper-3/2.13inch-e-paper-hat.htm)
@@ -59,3 +73,4 @@
 #### Specs
 - Image Update Current I UPDATE - 8.5~10 mA
 - Standby Panel Current I STANDBY - 2 5 uA
+
