@@ -14,6 +14,7 @@
 ## Lead contenders
 
 - ESP-WROOM-02
+  - ESP8684-WROOM-02C/02UC
   - Main selection reasons:
    - 2.7-3.6V
    - $3-$3.50
