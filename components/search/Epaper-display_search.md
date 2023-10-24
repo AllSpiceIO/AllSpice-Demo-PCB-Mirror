@@ -29,7 +29,7 @@ hour/sec = 1/3600 h/s
 
 #### Link
 [2.13" 4-color display](https://www.waveshare.com/product/displays/e-paper/epaper-3/2.13inch-e-paper-g.htm)
-[Dev board](https://www.waveshare.com/product/displays/e-paper/epaper-3/2.13inch-e-paper-hat.htm)
+[Dev board](https://www.waveshare.com/product/displays/e-paper/epaper-3/2.13inch-e-paper-cloud-module.htm)
 #### Price
 - 1 $7.99
 - 10 $7.59
