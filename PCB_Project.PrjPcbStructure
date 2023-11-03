@@ -1,1 +1,3 @@
 Record=TopLevelDocument|FileName=Page_turner_top.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=Page_turner_top.SchDoc|Designator=U_epaper|SchDesignator=U_epaper|FileName=epaper.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=epaper.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Page_turner_top.SchDoc|Designator=U_esp32s3_nano|SchDesignator=U_esp32s3_nano|FileName=esp32s3_nano.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=esp32s3_nano.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
