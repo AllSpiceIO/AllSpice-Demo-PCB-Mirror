@@ -2,6 +2,8 @@
 
 Page Turner is a battery-powered ESP32 development board, with a lightweight set of sensors connected to an e-Paper display.
 
+![Block Diagram](images/block_diagram.png)
+
 ### Goals
 
 - Low-power operation with 6+ mo on a coin-cell battery
@@ -21,6 +23,7 @@ Page Turner is a battery-powered ESP32 development board, with a lightweight set
 
 Components Library: https://hub.allspice.io/AllSpice/AllSpice-Demo-Library
 
+Reference Designs: https://github.com/unexpectedmaker/esp32s3
 
 # Specifications
 
