@@ -7,6 +7,8 @@ Page Turner is a battery-powered ESP32 development board, with a lightweight set
 ### Goals
 
 - Low-power operation with 6+ mo on a coin-cell battery
+  - 20 cycles per day
+  - Min 4 cycles per day refresh to avoid burn-in
 - Small form-factor
 - Low cost BOM (will be distributed at tradeshows)
   - $15 @ ~100 qty cost target
