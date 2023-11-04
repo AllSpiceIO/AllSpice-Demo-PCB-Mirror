@@ -8,10 +8,10 @@ Page Turner is a battery-powered ESP32 development board, with a lightweight set
 
 - Low-power operation with 6+ mo on a coin-cell battery
 - Small form-factor
-- Low cost @ ~100 qty orders (will be distributed at tradeshows)
-  - $15 cost target
+- Low cost BOM (will be distributed at tradeshows)
+  - $15 @ ~100 qty cost target
 - Temperature + humidity sensing and reporting
-- Header pins available to extent the sensor suite to additional external monitors
+- Header pins available to extend the sensor suite to additional external sensors
 
 ### Extended Goals
 
